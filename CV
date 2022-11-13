@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="cz-cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>&#9989; CV - Ondřej Lacina</title>
+</head>
+
+<body>
+    <div>
+        <h1>ONDŘEJ LACINA, DiS.</h1>
+        <h2>nar. 3.6.1991</h2>
+
+        <hr>
+    </div>
+
+    <div>
+        <h3>KONTAKTY</h3>
+        <p>Maxima Gorkého 6, Vyškov, 68201 <br>
+            + 420 776 197 777 <br>
+            laci7@seznam.cz <br>
+
+        </p>
+    </div>
+
+    <div>
+        <h3>PROFIL</h3>
+        <p>Mým zájmem je mj. IT- Web development. Nejvíc mě zajímá HTML, CSS, JS a sním spojené další jazyky či
+            knihovny. Rád bych změnil profesi na tento obor a nadále se mu věnoval, vzdělával a posouval se. Baví mě být
+            kreativní, vytvářet věci a vidět za sebou kus práce, která pan i funguje a dokáže někomu posloužit k užitku.
+            Jsem přátelský, nevami pracovat v týmu, tak i sám. Podrobněji na <a
+                href="https://www.linkedin.com/in/ondrej-lacina/" target="_blank">LinkedIN</a> nebo tel. hovoru či
+            pohovoru.</p>
+    </div>
+
+    <div>
+        <h3>ZKUŠENOSTI</h3>
+
+        <h4>Hypoteční specialista, 8/2021 - dosud</h4>
+        <p>
+            <ul>
+                <li>jednání s klienty, zpracování hypotéky od A-Z, řešení unikátních a nestandardních situací, každá
+                    hypotéka je originál</li>
+                <li>zajišťování správnosti dokumentace, kontrola podkladů, zpracování úvěrových návrhů, prvotní analýza
+                </li>
+            </ul>
+        </p>
+
+        <h4>Bankovní poradce se zaměřením na investice, 9/2019-7/2021</h4>
+        <p>
+            <ul>
+                <li>poradenství ohledně bankovních produktů</li>
+                <li>zpracování investičních požadavků (CDCP, dědictví CP, technická podpora)
+                </li>
+                <li>zajištění chodu pobočky</li>
+            </ul>
+        </p>
+    </div>
+
+    <div>
+        <h3>VZDĚLÁNÍ A CERTIFIKACE</h3>
+        <ul type="square">
+            <li><strong><a href="https://www.udemy.com/course/the-web-developer-bootcamp/"> The Web Developer Bootcamp
+                        2022</a></strong> by Colt Steele – Udemy.com – 64h online intenzivní kurz
+                <ul type="circle">
+                    <li>HTML, CSS, JavaScript, Node, MongoDB - dokončeno HTML, začátek CSS <a
+                            href="https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank"><img
+                                src="https://miro.medium.com/max/828/0*KlN28Ht5Jcyup-VA.jpg"
+                                alt="Web developer Bootcamp by Colt Steele" border="2" width="40%"></a></li>
+                </ul>
+            </li>
+            <li><strong>Zkoušky ČNB</strong> - Kapitálový trh II. + Splátkové úvěry a úvěry na bydlení</li>
+            <li><strong>Vyšší odborná škola Brno</strong> - Ekonomiko-právní obor</li>
+        </ul>
+    </div>
+
+    <div>
+        <table cellpadding="20">
+            <thead><strong>Dovednosti v IT</strong></thead>
+            <tbody>
+                <tr>
+                    <td>HTML &#11088; &#11088; &#11088; &#11088;<br>
+                        CSS &#11088;<br>
+                        JavaScript &#128591; &#129335; </td>
+                    <td>
+                        WordPress &#11088; &#11088; &#11088; <br>
+                        SEO &#11088; &#11088; <br>
+                        Nadšení &#11088; &#11088; &#11088; &#11088; &#11088;
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div>
+        <h3>ZÁLIBY</h3>
+        <ol>
+            <li>investování, akcie, fin. trhy</li>
+            <li>web/software vývoj</li>
+            <li>sport - fotbal, treking, cyklistika</li>
+            <li>hra na klavír</li>
+            <li>cestování bez cestovky</li>
+        </ol>
+    </div>
+
+    <div>
+        <h3>Kontaktujte mě</h3>
+        <form action="mailto:laci7@seznam.cz" method="post" enctype="text/plain" target="_blank">
+            <p>
+                <label for="" lang="cz-cs">Vaše jméno:</label>
+                <input type="text" name="yourName">
+            </p>
+            <p>
+                <label for="email">Váš e-mail:</label>
+                <input type="email" name="yourEmail">
+            </p>
+            <p>
+                <label for="text">Vaše zpráva:</label><br>
+                <textarea name="Vase zprava" id="" cols="31" rows="5"></textarea>
+            </p>
+
+            <label">Každou sekundu se narodí asi 4,1 dětí - označení boxíku zabere asi
+                0,5s, tzn., že se díky Vašemu kliknutí narodili cca 2 děti, gratuluji! Kolikrát jste za den kliknuli?
+                :-)</label>
+                <input type="checkbox"><br>
+                <input type="submit">
+        </form>
+    </div>
+</body>
+
+</html>
